@@ -11,7 +11,7 @@ const App = () => {
         <Link to="/">
           <img src={logo} alt="logo" className="w-28 object-contain" />
           <div>
-            <h1>Developed by Sanjay KV </h1>
+            <h1>Dall-E Developed by Sanjay KV </h1>
           </div>
         </Link>
         <Link
