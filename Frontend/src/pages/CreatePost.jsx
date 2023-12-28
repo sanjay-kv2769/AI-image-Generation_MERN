@@ -76,6 +76,7 @@ const CreatePost = () => {
         navigate("/");
       } catch (err) {
         alert(err);
+        console.log("error",err.message)
       } finally {
         setLoading(false);
       }
